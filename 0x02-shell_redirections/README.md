@@ -4,3 +4,4 @@
 3. Display content of 2 files.
 4. Display last 10 lines.
 5. Display first 10 lined.
+6. Display the third line of the file.
