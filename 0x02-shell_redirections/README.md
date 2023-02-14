@@ -5,3 +5,4 @@
 4. Display last 10 lines.
 5. Display first 10 lined.
 6. Display the third line of the file.
+7. Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School.
